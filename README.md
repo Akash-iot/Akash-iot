@@ -256,28 +256,7 @@ A defensive IoT security project designed to simulate vulnerable IoT services an
 - Blynk alert notifications.
 - SPIFFS-based IP blocking.
 
-### 🔴 3. API Security Risk Analysis
-
-**Technologies:** Postman | JWT | OAuth | HTTP
-
-A practical API security assessment focused on authentication and authorization risks.
-
-- API request and response analysis.
-- JWT authentication testing.
-- OAuth security exploration.
-- Authentication and authorization checks.
-- API security documentation.
-
-### 🔴 4. Web Vulnerability Assessment
-
-**Technologies:** Burp Suite | HTTP | Web Security
-
-A web application security assessment with documented security observations.
-
-- Total findings: 14 (Medium 28.6% · Low 35.7% · Informational 35.7%)
-- Areas examined: Anti-CSRF protection, Content Security Policy, clickjacking protection, cookie security, X-Powered-By information disclosure.
-
-### 🔴 5. ESP32 Fire Detection System
+### 🔴 3. ESP32 Fire Detection System with yolo algorithm 
 
 **Technologies:** ESP32-CAM | YOLOv8 | Blynk
 
